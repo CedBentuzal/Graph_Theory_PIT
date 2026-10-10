@@ -30,7 +30,7 @@ def is_symmetric(matrix, tol=1e-9):
     )
 
 
-def main()
+def main():
     if hasattr(sys.stdout, "reconfigure"):
         sys.stdout.reconfigure(errors="replace")
 
